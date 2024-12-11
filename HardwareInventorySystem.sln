@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HardwareInventorySystem", "HardwareInventorySystem.vbproj", "{FCE077DF-B6FA-41A3-9432-9CF844A8C667}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "..\New folder\Store App\Setup\Setup.vdproj", "{B9B0D77A-1A59-422C-912C-4DB868581088}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCE077DF-B6FA-41A3-9432-9CF844A8C667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE077DF-B6FA-41A3-9432-9CF844A8C667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE077DF-B6FA-41A3-9432-9CF844A8C667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE077DF-B6FA-41A3-9432-9CF844A8C667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9B0D77A-1A59-422C-912C-4DB868581088}.Debug|Any CPU.ActiveCfg = Debug
+		{B9B0D77A-1A59-422C-912C-4DB868581088}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
